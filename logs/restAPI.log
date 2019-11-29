@@ -656,3 +656,19 @@
 2019-11-28 15:34:39 INFO  EmployeesRestAPI:156 - *********  Finished TC002_Get_Single_Employee_Record **********
 2019-11-28 17:05:09 INFO  EmployeesRestAPI:51 - *********Started TC002_Get_Single_Employee_Record **********
 2019-11-28 17:05:24 INFO  EmployeesRestAPI:157 - *********  Finished TC002_Get_Single_Employee_Record **********
+2019-11-29 13:56:44 INFO  EmployeesRestAPI:55 - *********Started TC003_Create_Subscriber_JSON **********
+2019-11-29 13:56:44 INFO  EmployeesRestAPI:59 - *********Started TC003_Create_Subscriber_JSON **********
+2019-11-29 13:57:26 INFO  EmployeesRestAPI:55 - *********Started TC003_Create_Subscriber_JSON **********
+2019-11-29 13:57:26 INFO  EmployeesRestAPI:59 - *********Started TC003_Create_Subscriber_JSON **********
+2019-11-29 13:58:13 INFO  EmployeesRestAPI:55 - *********Started TC003_Create_Subscriber_JSON **********
+2019-11-29 13:58:13 INFO  EmployeesRestAPI:59 - *********Started TC003_Create_Subscriber_JSON **********
+2019-11-29 13:59:18 INFO  EmployeesRestAPI:55 - *********Started TC003_Create_Subscriber_JSON **********
+2019-11-29 13:59:18 INFO  EmployeesRestAPI:59 - *********Started TC003_Create_Subscriber_JSON **********
+2019-11-29 13:59:33 INFO  EmployeesRestAPI:55 - *********Started TC003_Create_Subscriber_JSON **********
+2019-11-29 13:59:33 INFO  EmployeesRestAPI:59 - *********Started TC003_Create_Subscriber_JSON **********
+2019-11-29 14:03:11 INFO  EmployeesRestAPI:55 - *********Started TC003_Create_Subscriber_JSON **********
+2019-11-29 14:03:11 INFO  EmployeesRestAPI:59 - *********Started TC003_Create_Subscriber_JSON **********
+2019-11-29 14:03:31 INFO  EmployeesRestAPI:55 - *********Started TC003_Create_Subscriber_JSON **********
+2019-11-29 14:03:31 INFO  EmployeesRestAPI:59 - *********Started TC003_Create_Subscriber_JSON **********
+2019-11-29 16:09:12 INFO  EmployeesRestAPI:55 - *********Started TC003_Create_Subscriber_JSON **********
+2019-11-29 16:09:12 INFO  EmployeesRestAPI:59 - *********Started TC003_Create_Subscriber_JSON **********

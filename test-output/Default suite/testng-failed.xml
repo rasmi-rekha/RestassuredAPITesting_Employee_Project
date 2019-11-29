@@ -3,13 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.employeeapi.testCases.TC002_Get_Single_Employee_Record">
+      <class name="com.employeeapi.testCases.TC003_Create_Subscriber_JSON">
         <methods>
-          <include name="tearDown"/>
-          <include name="getEmployeeData"/>
+          <include name="createSubscriber"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- com.employeeapi.testCases.TC002_Get_Single_Employee_Record -->
+      </class> <!-- com.employeeapi.testCases.TC003_Create_Subscriber_JSON -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
